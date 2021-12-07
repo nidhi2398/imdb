@@ -1,0 +1,12 @@
+.navbar1{
+    width:100%;
+    position:fixed;
+    left:0ps;
+    top:0px;
+    z-index: 99;
+    background-color:black;
+    color:white !important;
+}
+/* .navbar1{
+    z-index: 99;
+} */
